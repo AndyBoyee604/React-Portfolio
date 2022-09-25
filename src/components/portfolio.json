@@ -1,0 +1,18 @@
+[
+    {
+    "id": 1,
+    "name": "Run Buddy",
+    "image": "",
+    "github": "https://github.com/AndyBoyee604/Run-Buddy",
+    "deploy": "https://lernantino.github.io/run-buddy/",
+    "technologies": "HTML, CSS"
+    },
+    {
+    "id": 2,
+    "name": "Community Recipe Calendar",
+    "image": "",
+    "github": "https://github.com/AndyBoyee604/Community-Recipe-Calendar",
+    "deploy": "https://community-recipe-calendar.herokuapp.com/",
+    "technologies": "JS, Handlebars, CSS"
+    }
+]
