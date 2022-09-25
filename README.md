@@ -6,7 +6,7 @@ My react portfolio for employers to view
 JS | HTML | CSS | React
 
 ## Demo
-![]()
+![](./public/images/Screenshot%202022-09-24%20205220.jpg)
 
 ## Sources Referenced
 [Google](https://www.google.com) |
