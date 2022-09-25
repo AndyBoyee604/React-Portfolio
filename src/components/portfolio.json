@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "Run Buddy",
-    "image": "https://github.com/AndyBoyee604/React-Portfolio/blob/main/public/images/hero-bg.jpg",
+    "image": "",
     "github": "https://github.com/AndyBoyee604/Run-Buddy",
     "deploy": "https://lernantino.github.io/run-buddy/",
     "technologies": "HTML, CSS"
