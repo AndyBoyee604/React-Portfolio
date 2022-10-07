@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "Run Buddy",
-    "image": "",
+    "image": "https://github.com/AndyBoyee604/React-Portfolio/blob/main/src/images/hero-bg.jpg",
     "github": "https://github.com/AndyBoyee604/Run-Buddy",
     "deploy": "https://lernantino.github.io/run-buddy/",
     "technologies": "HTML, CSS"
@@ -10,9 +10,17 @@
     {
     "id": 2,
     "name": "Community Recipe Calendar",
-    "image": "https://github.com/AndyBoyee604/React-Portfolio/blob/main/public/images/recipe-me.jpg",
+    "image": "https://github.com/AndyBoyee604/React-Portfolio/blob/main/src/images/recipe-me.jpg",
     "github": "https://github.com/AndyBoyee604/Community-Recipe-Calendar",
     "deploy": "https://community-recipe-calendar.herokuapp.com/",
-    "technologies": "JS, Handlebars, CSS"
-    }
+    "technologies": "JS, Handlebars, CSS, Express, Heroku"
+    },
+    {
+        "id": 2,
+        "name": "Eat And Go",
+        "image": "https://github.com/AndyBoyee604/React-Portfolio/blob/main/src/images/eat-and-go.jpg",
+        "github": "https://github.com/AndyBoyee604/eat-and-go",
+        "deploy": "https://eat-and-go.herokuapp.com/",
+        "technologies": "JS, CSS, React, Express, graphQL, MongoDB, Heroku"
+        }
 ]
