@@ -18,7 +18,7 @@ function About() {
   <hr class="my-4"></hr>
   <p></p>
   <p class="lead">
-  <button type="button" class="btn btn-dark"><a href="https://drive.google.com/file/d/1oErPeaXuzbq9NFICTnAAxUdQ7Wk1sjxv/view?usp=sharing" style={linkStyle}>View Full Resume</a></button>
+  <button type="button" class="btn btn-dark"><a href="https://drive.google.com/file/d/1oErPeaXuzbq9NFICTnAAxUdQ7Wk1sjxv/view?usp=sharing" target="_blank" style={linkStyle}>View Full Resume</a></button>
   </p>
 </div>
     )
