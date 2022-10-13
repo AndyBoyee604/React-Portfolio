@@ -33,7 +33,7 @@ function Resume() {
       <p>noSQL (mongoDB, mongoose)</p>
       <p>APIs (RESTful, server-side, third-party)</p>
 
-      <button type="button" class="btn btn-dark"><a href="https://drive.google.com/file/d/1oErPeaXuzbq9NFICTnAAxUdQ7Wk1sjxv/view?usp=sharing" target="_blank" style={linkStyle}>View Full Resume</a></button>
+      <button type="button" class="btn btn-dark"><a href="https://drive.google.com/file/d/1oErPeaXuzbq9NFICTnAAxUdQ7Wk1sjxv/view?usp=sharing" target="_blank" rel="noreferrer" style={linkStyle}>View Full Resume</a></button>
 
 
     </section>

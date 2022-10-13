@@ -7,6 +7,7 @@ const padding = {
     padding: '10px'
 }
 
+// eslint-disable-next-line
 const titleStyle = {
     backgroundColor: 'grey',
     padding: '20px'
